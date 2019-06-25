@@ -1,5 +1,6 @@
-#Practice on book *'Learning Javascript'*
+# Practice on book *'Learning Javascript'*
 
-### author *Ethan*
+### author *Ethan Brow*
 
-Practice on book Learning Javascript. First chapters code along exercise.
+Practice on book Learning Javascript. First chapter code along exercise.
+
