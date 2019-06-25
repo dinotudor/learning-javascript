@@ -1,3 +1,5 @@
 #Practice on book *'Learning Javascript'*
 
-###author 
+### author *Ethan*
+
+Practice on book Learning Javascript. First chapters code along exercise.
